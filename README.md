@@ -1,1 +1,7 @@
-# ADM-HW2
+# ADM-HW2 Videogames Reviews
+
+Video games have evolved into a major form of entertainment, leaving a lasting impression on many people’s childhoods and continuing to captivate audiences well into adulthood. In recent years, gaming has transcended from a simple hobby into a global phenomenon, influencing culture and technology. As the internet grew, numerous digital distribution platforms offered a vast array of content, including music, videos, e-books, and video games. Steam, one of the most prominent platforms, not only offers digital rights management and server hosting but also provides services like video streaming and social networking. Steam's features include game installation, automatic updates, and various community elements, such as friends lists, groups, cloud storage, and in-game voice and chat functions. Beyond just a store, Steam serves as a hub where gamers can connect and share their experiences, fostering a global gaming community.
+
+Imagine that you and your team have been hired as a data scientist by a leading Game Development Company, where your primary mission is to harness the power of data. Along with your team, you're tasked with analyzing the vast pool of game reviews on Steam, where users (Authors) share their thoughts and feedback about various games. Each row in your dataset corresponds to a review, representing a unique interaction between a player and a game.
+
+Your objective is to answer research questions (RQs) to uncover meaningful patterns in the data, helping the company understand what players value in a video game.
