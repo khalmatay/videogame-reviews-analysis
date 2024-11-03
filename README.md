@@ -11,7 +11,8 @@ ADM-HW2/
 │             
 |   ├── main.ipynb  (contain all solutions)             
 │   ├── functions.py  (functions)
-│   ├── input.txt     (values for AQ)      
+│   ├── input.txt     (values for AQ)
+|   ├── images
 ├── tests/                        
 │   ├── test_input.py (test_values for AQ)      
 │   ├── test_functions.py (test )
