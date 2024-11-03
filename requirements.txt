@@ -6,3 +6,5 @@ seaborn
 pytest
 openai
 numpy
+statsmodels
+kagglehub
