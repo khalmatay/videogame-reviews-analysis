@@ -3,3 +3,6 @@ gdown
 plotly
 matplotlib
 seaborn
+pytest
+openai
+numpy
