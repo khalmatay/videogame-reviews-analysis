@@ -28,7 +28,7 @@ git clone
 
 Step 2: Install Dependencies
 ```bash
-export env_name="1-python-khalmatay"
+export env_name="ADM-HW2"
 
 conda create -n $env_name python=3.10
 
