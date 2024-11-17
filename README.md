@@ -9,6 +9,7 @@ We used an open [dataset](https://www.kaggle.com/datasets/najzeko/steam-reviews-
 Due to GitHub's limitations with displaying interactive graphs from the Plotly library, we followed the TA's recommendation to place `main.ipynb` in a public Google Drive folder. The code has been executed there, and now the interactive graphs, which couldn't be shown on GitHub, are available.
 
 Here is the link to the Google Drive folder containing the file: [main.ipynb](https://drive.google.com/drive/folders/1ZWrlP-N5ttht2Jc-yq8jASG9YffF13rp)
+Nbviewer doesn't show UI search Engine [main.ipynb](https://nbviewer.org/github/khalmatay/ADM-HW3/blob/main/main.ipynb)
 
 
 
